@@ -12,7 +12,7 @@ namespace MyNotes.Repositories
 {
     public class NoteRepository : BaseRepository<Note>
     {
-        public NoteRepository(ApplicationDbContext context)
+        public NoteRepository(EF.NoteContext context)
             : base(context)
         {
         }

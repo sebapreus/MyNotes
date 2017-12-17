@@ -10,10 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using MyNotes.Authenticate;
-using MyNotes.EF;
 
-namespace MyNotes
+
+namespace MyNote.Authenticate
 {
     public class EmailService : IIdentityMessageService
     {

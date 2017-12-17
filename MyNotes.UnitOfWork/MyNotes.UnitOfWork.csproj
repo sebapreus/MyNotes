@@ -57,6 +57,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MyNote.Authenticate\MyNote.Authenticate.csproj">
+      <Project>{80BB0BAC-FADE-4DD9-B333-40A0C81CC718}</Project>
+      <Name>MyNote.Authenticate</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MyNotes.EF\MyNotes.EF.csproj">
       <Project>{5243cba0-575d-469f-8888-51ed7268f0da}</Project>
       <Name>MyNotes.EF</Name>

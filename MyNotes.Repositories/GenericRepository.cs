@@ -13,10 +13,10 @@ namespace MyNotes.Repositories
 {
     public class BaseRepository<T> : IBaseRepository<T> where T : class, IBaseModel
     {
-        private ApplicationDbContext context;
+        private NoteContext context;
         IDbSet<T> dbSet;
 
-        public BaseRepository(ApplicationDbContext _context)
+        public BaseRepository(NoteContext _context)
         {
             context = _context;
             dbSet = context.Set<T>();

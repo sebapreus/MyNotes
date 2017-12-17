@@ -5,18 +5,17 @@ using MyNotes.Repositories.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace MyNotes.UnitOfWork
 {
     public class UnitOfWork : IDisposable
     {
-        private ApplicationDbContext db = null;
+        private EF.NoteContext db = null;
 
         public UnitOfWork()
         {
-            db = new ApplicationDbContext();
+            db = new EF.NoteContext();
         }
         
         // Słownik będzie używany do sprawdzania instancji repozytoriów

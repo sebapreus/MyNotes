@@ -53,7 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApplicationDbContext.cs" />
+    <Compile Include="NoteContext.cs" />
     <Compile Include="Migrations\201712162023473_initial.cs" />
     <Compile Include="Migrations\201712162023473_initial.Designer.cs">
       <DependentUpon>201712162023473_initial.cs</DependentUpon>
@@ -66,9 +66,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyNotes.Authenticate.ApplicationUser\MyNote.Authenticate.ApplicationUser.csproj">
-      <Project>{9734c9de-3271-4fa0-9a3b-767ce0653901}</Project>
-      <Name>MyNote.Authenticate.ApplicationUser</Name>
+    <ProjectReference Include="..\MyNote.Authenticate\MyNote.Authenticate.csproj">
+      <Project>{80bb0bac-fade-4dd9-b333-40a0c81cc718}</Project>
+      <Name>MyNote.Authenticate</Name>
     </ProjectReference>
     <ProjectReference Include="..\MyNotes.Models\MyNotes.Models.csproj">
       <Project>{fec79a8d-5a50-4837-8f08-5fd09ebfae1d}</Project>

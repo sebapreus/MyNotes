@@ -5,14 +5,14 @@ namespace MyNotes.EF.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<MyNotes.EF.ApplicationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<EF.NoteContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(MyNotes.EF.ApplicationDbContext context)
+        protected override void Seed(MyNotes.EF.NoteContext context)
         {
             //  This method will be called after migrating to the latest version.
 

@@ -80,22 +80,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IdentityConfig.cs" />
+    <Compile Include="IdentityModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Startup.Auth.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MyNotes.Authenticate.ApplicationUser\MyNote.Authenticate.ApplicationUser.csproj">
-      <Project>{9734c9de-3271-4fa0-9a3b-767ce0653901}</Project>
-      <Name>MyNote.Authenticate.ApplicationUser</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\MyNotes.EF\MyNotes.EF.csproj">
-      <Project>{5243cba0-575d-469f-8888-51ed7268f0da}</Project>
-      <Name>MyNotes.EF</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
