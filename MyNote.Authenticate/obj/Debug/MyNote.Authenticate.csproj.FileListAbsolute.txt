@@ -1,0 +1,15 @@
+D:\!Projekty\MyNotes\MyNote.Authenticate\obj\Debug\MyNote.Authenticate.csproj.CoreCompileInputs.cache
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\MyNote.Authenticate.dll.config
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\MyNote.Authenticate.dll
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\MyNote.Authenticate.pdb
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\EntityFramework.dll
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\EntityFramework.SqlServer.dll
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\EntityFramework.xml
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\EntityFramework.SqlServer.xml
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\!Projekty\MyNotes\MyNote.Authenticate\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\!Projekty\MyNotes\MyNote.Authenticate\obj\Debug\MyNote.Authenticate.dll
+D:\!Projekty\MyNotes\MyNote.Authenticate\obj\Debug\MyNote.Authenticate.pdb
+D:\!Projekty\MyNotes\MyNote.Authenticate\obj\Debug\MyNote.Authenticate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\!Projekty\MyNotes\MyNotes.DependencyResolver\bin\Debug\MyNotes.DependencyResolver.dll
+D:\!Projekty\MyNotes\MyNotes.DependencyResolver\bin\Debug\MyNotes.DependencyResolver.pdb
+D:\!Projekty\MyNotes\MyNotes.DependencyResolver\obj\Debug\MyNotes.DependencyResolver.csprojResolveAssemblyReference.cache
+D:\!Projekty\MyNotes\MyNotes.DependencyResolver\obj\Debug\MyNotes.DependencyResolver.csproj.CoreCompileInputs.cache
+D:\!Projekty\MyNotes\MyNotes.DependencyResolver\obj\Debug\MyNotes.DependencyResolver.dll
+D:\!Projekty\MyNotes\MyNotes.DependencyResolver\obj\Debug\MyNotes.DependencyResolver.pdb

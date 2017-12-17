@@ -1,0 +1,6 @@
+D:\!Projekty\MyNotes\MyNotes.Models\bin\Debug\MyNotes.Models.dll
+D:\!Projekty\MyNotes\MyNotes.Models\bin\Debug\MyNotes.Models.pdb
+D:\!Projekty\MyNotes\MyNotes.Models\obj\Debug\MyNotes.Models.csprojResolveAssemblyReference.cache
+D:\!Projekty\MyNotes\MyNotes.Models\obj\Debug\MyNotes.Models.csproj.CoreCompileInputs.cache
+D:\!Projekty\MyNotes\MyNotes.Models\obj\Debug\MyNotes.Models.dll
+D:\!Projekty\MyNotes\MyNotes.Models\obj\Debug\MyNotes.Models.pdb

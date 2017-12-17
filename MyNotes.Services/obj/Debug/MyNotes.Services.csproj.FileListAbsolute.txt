@@ -1,0 +1,15 @@
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\MyNotes.Services.dll
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\MyNotes.Services.pdb
+D:\!Projekty\MyNotes\MyNotes.Services\obj\Debug\MyNotes.Services.csprojResolveAssemblyReference.cache
+D:\!Projekty\MyNotes\MyNotes.Services\obj\Debug\MyNotes.Services.csproj.CoreCompileInputs.cache
+D:\!Projekty\MyNotes\MyNotes.Services\obj\Debug\MyNotes.Services.dll
+D:\!Projekty\MyNotes\MyNotes.Services\obj\Debug\MyNotes.Services.pdb
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\MyNotes.Services.dll.config
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\EntityFramework.dll
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\EntityFramework.xml
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\!Projekty\MyNotes\MyNotes.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
